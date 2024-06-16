@@ -1,6 +1,6 @@
-#name = input('whats your name')
-#year=int(input("u r birth year"))
-#print("hii"+name+"your age is"+ str(year))
+# name = input('whats your name')
+# year=int(input("u r birth year"))
+# print("hii"+name+"your age is"+ str(year))
 
 # student="praneeth"
 # copy=student[:]
@@ -17,9 +17,9 @@ print(msg)
 
 no=len(msg)
 up=msg.upper()
-finding=msg.find('H')
+finding=msg.find('P')
 replacing=msg.replace('your','u r')
-print(str(no)+up)
+print(str(no)+" "+up)
 print(str(finding))
 print(replacing)
 print('balu'in msg)

@@ -1,7 +1,7 @@
 # def function(fname,lname):
 #     print(f"Hii {fname} {lname}")
-#
-#
+
+
 # print("Start")
 # function(lname="Praneeth",fname="B")
 # function("Praneeth","B")
@@ -9,8 +9,8 @@
 
 # def square(num):
 #     return num*num
-#
-#
+
+
 # i=int(input('Enter a number'))
 # print(f"The Square of {i} is {square(num=i)}")
 

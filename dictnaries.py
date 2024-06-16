@@ -3,6 +3,7 @@
 #     "age":"40",
 #     "is_verfied":True
 # }
+# print(customer)
 # print(customer["name"])
 # customer["name"]="BP"
 # print(customer["name"])
